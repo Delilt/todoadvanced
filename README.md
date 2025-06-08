@@ -133,4 +133,4 @@ lib/
 7. **ViewModel ve Servislerin Geliştirilmesi:** `DatabaseService`, `HomeViewModel` ve `TaskViewModel` yazılarak iş mantığı ve veri akışı sağlandı.
 8. **Ekranların Geliştirilmesi:** Her bir ekran, ilgili ViewModel'den veri alacak ve kullanıcı etkileşimlerini ViewModel'e iletecek şekilde `Provider` ile geliştirildi.
 9. **Widget'ların Oluşturulması:** `CategoryCard`, `TaskListItem`, `WaterDropButton` gibi tekrar kullanılabilir UI bileşenleri oluşturuldu.
-10. **Son Rötuşlar ve Dokümantasyon:** Animasyonlar eklendi, UI detayları iyileştirildi ve bu doküman hazırlandı.
+10. **Son Rötuşlar:** Animasyonlar eklendi, UI detayları iyileştirildi.
